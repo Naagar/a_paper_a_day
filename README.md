@@ -1,6 +1,6 @@
-# papers-I-read
+# one_paper_one_week
 
-I am trying a new initiative - a-paper-a-week. This repository will hold all those papers and related summaries and notes.
+I am trying a new initiative - a paper a week. This repository will hold all those papers and related summaries and notes.
 
 ## List of papers
 
