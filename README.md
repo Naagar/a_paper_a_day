@@ -1,10 +1,11 @@
 # one_paper_one_week
 
 I am trying a new initiative - a paper a week. This repository will hold all those papers and related summaries and notes.
-
 ## List of papers
 
-* [DRAW: A Recurrent Neural Network For Image Generation](https://arxiv.org/abs/1502.04623)
+* [DRAW: A Recurrent Neural Network For Image Generation](https://arxiv.org/abs/1502.04623) 
+* [Zero-Shot Text-to-Image Generation](https://arxiv.org/abs/2102.12092) 
+* [Normalizing Flows for Probabilistic Modeling and Inference](https://arxiv.org/pdf/1912.02762.pdf)
 <!-- * [Continual learning with hypernetworks](https://shagunsodhani.com/papers-I-read/Continual-learning-with-hypernetworks)
 * [Zero-shot Learning by Generating Task-specific Adapters](https://shagunsodhani.com/papers-I-read/Zero-shot-Learning-by-Generating-Task-specific-Adapters)
 * [HyperNetworks](https://shagunsodhani.com/papers-I-read/HyperNetworks)
