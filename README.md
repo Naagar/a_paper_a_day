@@ -4,8 +4,8 @@ I am trying a new initiative - a paper a week. This repository will hold all tho
 
 ## List of papers
 
-* [When Do Curricula Work?](https://shagunsodhani.com/papers-I-read/When-Do-Curricula-Work)
-* [Continual learning with hypernetworks](https://shagunsodhani.com/papers-I-read/Continual-learning-with-hypernetworks)
+* [DRAW: A Recurrent Neural Network For Image Generation](https://arxiv.org/abs/1502.04623)
+<!-- * [Continual learning with hypernetworks](https://shagunsodhani.com/papers-I-read/Continual-learning-with-hypernetworks)
 * [Zero-shot Learning by Generating Task-specific Adapters](https://shagunsodhani.com/papers-I-read/Zero-shot-Learning-by-Generating-Task-specific-Adapters)
 * [HyperNetworks](https://shagunsodhani.com/papers-I-read/HyperNetworks)
 * [Energy-based Models for Continual Learning](https://shagunsodhani.com/papers-I-read/Energy-based-Models-for-Continual-Learning)
@@ -216,4 +216,4 @@ I am trying a new initiative - a paper a week. This repository will hold all tho
 * [f4 : Facebook's Warm BLOB Storage System](https://medium.com/@shagun/f4-cba2f141cb0c)
 * [A Theoretician’s Guide to the Experimental Analysis of Algorithms](https://medium.com/@shagun/dos-and-dont-s-of-research-fe33322c7aff)
 * [Cuckoo Hashing](https://medium.com/@shagun/cuckoo-hashing-eb160dfab804)
-* [Never Ending Learning](https://medium.com/@shagun/never-ending-learning-e7b78006e713)
+* [Never Ending Learning](https://medium.com/@shagun/never-ending-learning-e7b78006e713) -->
