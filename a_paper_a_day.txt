@@ -1,0 +1,5 @@
+
+### Blog May 29, 2021
+
+https://www.microsoft.com/en-us/research/blog/deepspeed-accelerating-large-scale-model-inference-and-training-via-system-optimizations-and-compression/?OCID=msr_blog_DeepSpeed5_ln
+
