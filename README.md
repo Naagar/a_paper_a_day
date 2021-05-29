@@ -1,6 +1,6 @@
 # A_Paper_A_Day
 
-I am trying a new initiative - a paper a week. This repository will hold all those papers and related summaries and notes.
+I am trying a new initiative - a paper a day. This repository will hold all those papers and related summaries and notes.
 ## List of papers
 
 * [DRAW: A Recurrent Neural Network For Image Generation](https://arxiv.org/abs/1502.04623) 
