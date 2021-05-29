@@ -2,10 +2,15 @@
 
 I am trying a new initiative - a paper a day. This repository will hold all those papers and related summaries and notes.
 ## List of papers
-
+* [150 Successful Machine Learning Models: 6 Lessons Learned at Booking.com](https://dl.acm.org/doi/10.1145/3292500.3330744)
 * [DRAW: A Recurrent Neural Network For Image Generation](https://arxiv.org/abs/1502.04623) 
 * [Zero-Shot Text-to-Image Generation](https://arxiv.org/abs/2102.12092) 
 * [Normalizing Flows for Probabilistic Modeling and Inference](https://arxiv.org/pdf/1912.02762.pdf)
+
+## List of blogs
+
+* [DeepSpeed: Accelerating large-scale model inference and training via system optimizations and compression](https://www.microsoft.com/en-us/research/blog/deepspeed-accelerating-large-scale-model-inference-and-training-via-system-optimizations-and-compression/?OCID=msr_blog_DeepSpeed5_ln) 
+
 <!-- * [Continual learning with hypernetworks](https://shagunsodhani.com/papers-I-read/Continual-learning-with-hypernetworks)
 * [Zero-shot Learning by Generating Task-specific Adapters](https://shagunsodhani.com/papers-I-read/Zero-shot-Learning-by-Generating-Task-specific-Adapters)
 * [HyperNetworks](https://shagunsodhani.com/papers-I-read/HyperNetworks)
